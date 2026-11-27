@@ -1,0 +1,8 @@
+{
+  "forward_pwm": 190,
+  "backward_pwm": 180,
+  "left_turn_pwm": 165,
+  "right_turn_pwm": 165,
+  "trim_balance": 0,
+  "precision_scale": 0.72
+}
